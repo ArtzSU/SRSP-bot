@@ -110,7 +110,7 @@ async def cmd_presentation(message: Message):
     """
 
     await message.reply_document(
-        document=FSInputFile(path="assets/pressetation.pptx", filename="презентация.pptx")
+        document=FSInputFile(path="assets/presentation.pdf", filename="презентация.pdf")
     )
 
 
