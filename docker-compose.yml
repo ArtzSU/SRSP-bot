@@ -1,0 +1,6 @@
+services:
+  bot:
+    image: ghcr.io/ArtzSU/SRSP-bot:main
+    restart: unless-stopped
+    env_file:
+      - .env
