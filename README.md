@@ -27,7 +27,7 @@
 1. Клонировать репозиторий:
 ```bash
 git clone https://github.com/ArtzSU/SRSP-bot
-cd tgbotsrsp
+cd SRSP-bot
 ```
 
 2. Создать и активировать виртуальное окружение:
